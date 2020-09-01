@@ -2,6 +2,8 @@ import turtle
 import time
 import random 
 
+SCREEN_SIZE = [620, 360]
+SNAKE_WIDTH = 20
 
 class body(turtle.Turtle):
 
