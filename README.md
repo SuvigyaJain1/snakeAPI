@@ -1,5 +1,6 @@
 # snakeAPI
-An API for a basic snake environment that can be used to test reinforcement learning algorithms
+An API for a basic snake environment that can be used to test reinforcement learning algorithms.
+Unlike traditional inputs to RL algorithms which are huge and clunky this provides a clean API with low computational power required to test and train your RL algos.
 
 ## Dependencies
 needs python version with tkinter (python3-tk) and turtle
